@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course Grading | STA 418\518</title>
+    <link>https://sta518.github.io/courses/course-grading/</link>
+      <atom:link href="https://sta518.github.io/courses/course-grading/index.xml" rel="self" type="application/rss+xml" />
+    <description>Course Grading</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sta518.github.io/media/sta518-sticker.png</url>
+      <title>Course Grading</title>
+      <link>https://sta518.github.io/courses/course-grading/</link>
+    </image>
+    
+    <item>
+      <title>Learning Tasks</title>
+      <link>https://sta518.github.io/courses/course-grading/learning-tasks/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sta518.github.io/courses/course-grading/learning-tasks/</guid>
+      <description>&lt;p&gt;This course will use a form of Team-Based Learning, which encourages collaboration and active learning for both individuals and teams.
+The course is divided into 12 &lt;a href=&#34;course/course-structure/modules/&#34;&gt;Learning Modules&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;learning-activities&#34;&gt;Learning Activities&lt;/h3&gt;
+&lt;p&gt;How we prepare for our class sessions is essential for Team-Based Learning.
+Each class session follows the sequential pattern:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Readings&lt;/strong&gt;: Prior to each class session, you will complete assigned readings (which may also include watching videos). These readings contain core concepts and ideas needed to be successful during the activity for that class session. Readings will be provided via Blackboard.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Preparation&lt;/strong&gt;: A preparation will have you submit work on items that demonstrate a baseline understanding. These items will focus on the core concepts and ideas from the readings. The preparations will be administered via Blackboard.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clarifying Discussion&lt;/strong&gt;: On occasion, a short lecture may be provided to clarify points of confusion which surface from the preparation or to &amp;ldquo;set the stage&amp;rdquo; for an upcoming activity. These will occur at the discretion of the professor, but students may also provide requests for clarification on items by posting to the community repository on GitHub. Posts on this community repository will be viewable by all students and questions email to the professor may be instructed to instead be posted here so that the response is available to all students. Other students are strong encouraged to participate in posts made to the community repository.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Activity&lt;/strong&gt;: The preparation portion of a class session is to assure individual accountability to the team. During class sessions we will work through a series of activities. The activities require you and your team members to apply concepts from the readings to a series of scenario-based questions which allow you to demonstrate knowledge of one or more of the Learning Targets. There are planned check points at which point you will contact your professor to check your answers and provide clarifying discussion on items you got wrong (or you are not sure why you got an item right!). Your professor will also be cycling through the team breakout rooms to be available for intermediate clarification. Activities will typically need to be completed outside of class and evidence of an honest effort (a link to your team activity repository) will be submitted to Blackboard. At times, you might be asked to do follow-up tasks to extend an activity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;learning-journals&#34;&gt;Learning Journals&lt;/h3&gt;
+&lt;p&gt;I want to hear about what you learned and what you did to help you make connections between the material.
+To facilitate this, and to further encourage engagement with the course content, you will create entries in a digital Learning Journal - a private GitHub repository that only you (individually) and your professor have access to.
+More details and examples will be provided in the first Preparation.&lt;/p&gt;
+&lt;h3 id=&#34;learning-target-checks&#34;&gt;Learning Target Checks&lt;/h3&gt;
+&lt;p&gt;Roughly every other week, you will receive a collection of tasks for each &lt;a href=&#34;https://sta518.github.io/courses/course-structure/learning-targets/&#34;&gt;Learning Target&lt;/a&gt; that has been covered up to that point.
+Each task will include a detailed explanation of what constitutes acceptable work for that Learning Target.&lt;/p&gt;
+&lt;h3 id=&#34;projects&#34;&gt;Projects&lt;/h3&gt;
+&lt;p&gt;There will be eight projects that are meant to have you extend the in-class activities.
+You are welcome to begin working on these as soon as they have been made available.
+There is no due date for projects other than the last day of classes (i.e., by 11:59 pm on Friday, April 23).
+You can submit projects multiple times (after receiving feedback); however, you cannot submit more than two projects per week.&lt;/p&gt;
+&lt;p&gt;During finals week, you will be submitting two items:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A big-picture group project (Project 8) that also contributes to the plus/minus designation on your final course grade, and&lt;/li&gt;
+&lt;li&gt;A final Learning Target Check that gives you the chance to meet any Learning Targets that you have not yet completed.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grading</title>
+      <link>https://sta518.github.io/courses/course-grading/grading/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sta518.github.io/courses/course-grading/grading/</guid>
+      <description>&lt;p&gt;Details on how proficiency grading relates to the specific learning tasks are provided here. All items submitted use the same rubric, though some grades are not possible for certain tasks (e.g., Learning Journals cannot earn an &amp;ldquo;Excellent&amp;rdquo; or &amp;ldquo;Not Yet&amp;rdquo;).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Does the work demonstrate thorough understanding of the concepts? Does the work meet the expectations outlined in the assignment?
+&lt;ul&gt;
+&lt;li&gt;Yes. Is the work complete and well communicated?
+&lt;ul&gt;
+&lt;li&gt;Yes; &lt;strong&gt;Excellent&lt;/strong&gt;: The work meets or exceeds the expectations of the assignment. Communication is clear and complete. Mastery of the concepts is evident. There are not any major errors. This work could be used as an exemplary classroom example.&lt;/li&gt;
+&lt;li&gt;No; &lt;strong&gt;Sufficient&lt;/strong&gt;: Understanding of the concepts is evident through correct work and clear, audience-appropriate explanations. Some revision or expansion is needed, but no major gaps or errors are present. No additional instruction on the concepts is needed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;No. Is there evidence of partial understanding?
+&lt;ul&gt;
+&lt;li&gt;Yes; &lt;strong&gt;Not Yet&lt;/strong&gt;: Partial understanding of the concepts is evident, but there are major gaps that remain. Needs further work, more review, and/or improved explanations.&lt;/li&gt;
+&lt;li&gt;No; &lt;strong&gt;Incomplete&lt;/strong&gt;: Not enough information is present in the work to determine whether there is understanding of the concepts. The work is fragmentary or contains major omissions. Or, there are too many issues to justify correcting each one.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This ESNI rubric is based on the EMRN rubric from Dr. Robert Talbert: &lt;a href=&#34;http://bit.ly/talbert_emrn&#34;&gt;http://bit.ly/talbert_emrn&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;learning-activities-and-learning-journals&#34;&gt;Learning Activities and Learning Journals&lt;/h2&gt;
+&lt;p&gt;These tasks will be graded either &lt;strong&gt;Sufficient&lt;/strong&gt; or &lt;strong&gt;Incomplete&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A &lt;strong&gt;Sufficient&lt;/strong&gt; is given if the work is turned in on time and every item has a response that represents a good-faith effort to be complete.&lt;/li&gt;
+&lt;li&gt;An &lt;strong&gt;Incomplete&lt;/strong&gt; will be given if the work has missing responses (even if by accident), work that includes responses like, &amp;ldquo;I don&amp;rsquo;t know,&amp;rdquo; or shows insufficient effort to give a good-faith response and work that is late (even if by accident).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Correctness of a submission is not used to determine your mark.&lt;/p&gt;
+&lt;h2 id=&#34;learning-target-checks&#34;&gt;Learning Target Checks&lt;/h2&gt;
+&lt;p&gt;There are twenty &lt;a href=&#34;https://sta518.github.io/courses/course-structure/learning-targets/&#34;&gt;Learning Targets&lt;/a&gt; in this course, of which ten are designated as &lt;strong&gt;Core&lt;/strong&gt; targets due to their nature in statistical computing and the other ten are designated as &lt;strong&gt;Supplemental&lt;/strong&gt; targets.
+There are two levels of achievement for a Learning Target: &lt;em&gt;Competent&lt;/em&gt; and &lt;em&gt;Proficient&lt;/em&gt;.
+You will have numerous opportunities to demonstrate your level of understanding on the Learning Targets throughout the semester and every time they will be graded either &lt;strong&gt;Sufficient&lt;/strong&gt;, &lt;strong&gt;Not Yet&lt;/strong&gt;, or &lt;strong&gt;Incomplete&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To have a Learning Target rated as &lt;em&gt;Competent&lt;/em&gt;, you must earn &lt;strong&gt;one Sufficient&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;To have a Learning Target rated as &lt;em&gt;Proficient&lt;/em&gt;, you must earn &lt;strong&gt;two Sufficient&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can earn a &lt;strong&gt;Sufficient&lt;/strong&gt; on a Learning Target in four different ways:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Complete the Learning Target on a Learning Target Check&lt;/strong&gt; that meets the criteria for acceptable quality.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Schedule an oral assessment&lt;/strong&gt; through a video conference where I will provide you with a new version of a Learning Target Check type problem and you work through the problem live at an acceptable level.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create a video&lt;/strong&gt; of yourself working out the solution to an Learning Target Check type problem, that I will create for you, and submit the video. Your video must adhere to standards for video creation (e.g., video must have clear sound and keep your face, voice, work in the frame at all times). You will also be expected to have a follow-up video conference with me to discuss the solution and answer additional related questions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use work on a Project&lt;/strong&gt; and schedule a video conference with me to explain how your work on the Project demonstrates proficiency of the Learning Target and answer additional related questions.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;No more than one Sufficient can be earned through options 2-4&lt;/strong&gt;.
+That is, to have a Learning Target rated as &lt;em&gt;Proficient&lt;/em&gt;, you must earn one &lt;strong&gt;Sufficient&lt;/strong&gt; through an Learning Target Check.&lt;/p&gt;
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+&lt;p&gt;Work on Projects will earn one of four designations: &lt;strong&gt;Excellent&lt;/strong&gt;, &lt;strong&gt;Sufficient&lt;/strong&gt;, &lt;strong&gt;Not Yet&lt;/strong&gt;, or &lt;strong&gt;Incomplete&lt;/strong&gt;.
+Whenever you submit a Project, you will be provided with actionable feedback on what was done well along with what needs to be improved.
+Specific details on how these marks are assigned for each Project will be provided to you and discussed prior to the Projects being made available.&lt;/p&gt;
+&lt;h2 id=&#34;final-grade-determination&#34;&gt;Final Grade Determination&lt;/h2&gt;
+&lt;p&gt;Your course grade is determined using two steps.
+First, your &lt;strong&gt;base grade&lt;/strong&gt; (The letter A, B, C, D, or F &lt;em&gt;without plus or minus&lt;/em&gt;) is determined using the table provided below.
+In order to earn a particular letter grade, you must complete &lt;strong&gt;all&lt;/strong&gt; the requirements in the column for that grade.
+Your base grade is the highest grade level for which all the requirements have been met or exceeded.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Activity&lt;/th&gt;
+&lt;th&gt;D&lt;/th&gt;
+&lt;th&gt;C&lt;/th&gt;
+&lt;th&gt;B&lt;/th&gt;
+&lt;th&gt;A&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Core Learning &lt;br&gt; Targets (10)&lt;/td&gt;
+&lt;td&gt;5 Competent+&lt;/td&gt;
+&lt;td&gt;5 Competent+, &lt;br&gt; 5 Proficient&lt;/td&gt;
+&lt;td&gt;3 Competent+, &lt;br&gt; 7 Proficient&lt;/td&gt;
+&lt;td&gt;10 Proficient&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Supplemental Learning &lt;br&gt; Targets (10)&lt;/td&gt;
+&lt;td&gt;5 Competent+&lt;/td&gt;
+&lt;td&gt;3 Competent+, &lt;br&gt; 3 Proficient&lt;/td&gt;
+&lt;td&gt;5 Competent+, &lt;br&gt; 3 Proficient&lt;/td&gt;
+&lt;td&gt;3 Competent+,&lt;br&gt; 5 Proficient&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Learning Activities (48)&lt;/td&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;td&gt;34&lt;/td&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;td&gt;44&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Learning Journals (95)&lt;/td&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;32&lt;/td&gt;
+&lt;td&gt;42&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Projects (8)&lt;/td&gt;
+&lt;td&gt;2 Sufficient+&lt;/td&gt;
+&lt;td&gt;5 Sufficient+&lt;/td&gt;
+&lt;td&gt;4 Sufficient+, &lt;br&gt; 2 Excellent&lt;/td&gt;
+&lt;td&gt;2 Sufficient+, &lt;br&gt; 4 Excellent&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Numbers in parentheses next to each Learning Task are the total number of items currently planned.
+If these totals change, this table will be updated and you will also be notified by a course announcement.
+For Core and Supplemental Learning Targets, “Competent+” means “either &lt;em&gt;Competent&lt;/em&gt; or &lt;em&gt;Proficient&lt;/em&gt;”; for Projects, “Sufficient+” means “either Sufficient or Excellent”.&lt;/p&gt;
+&lt;p&gt;A grade of “F” is given if not all the requirements for a “D” are met.&lt;/p&gt;
+&lt;p&gt;Once your base grade has been determined, a plus/minus distinction may be added to your base grade according to these guidelines:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;th&gt;&lt;span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;plus&lt;/strong&gt; (+)&lt;/td&gt;
+&lt;td&gt;A “plus” may be added to your base grade if all the requirements for a base grade are satisfied, you earned a Sufficient+ on Project 8, and any of the Learning Targets or Project requirements for the next level up is satisfied.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;minus&lt;/strong&gt; (-)&lt;/td&gt;
+&lt;td&gt;A “minus” may be added to your base grade for any of the following cases: &lt;br&gt; 1. All requirements for a base grade are satisfied &lt;em&gt;except one&lt;/em&gt; that is no more than two levels below the others. If the deficient area is more than two levels lower, you will either earn a minus earn a full letter grade lower, at my discretion; &lt;strong&gt;or&lt;/strong&gt; &lt;br&gt; 2. You do not earn a Sufficient+ on Project 8.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: I cannot award an &amp;ldquo;A+&amp;rdquo; or a &amp;ldquo;D-&amp;rdquo; since these grades do not exist at GVSU.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Revisions</title>
+      <link>https://sta518.github.io/courses/course-grading/revision/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sta518.github.io/courses/course-grading/revision/</guid>
+      <description>&lt;p&gt;There is no partial credit or extra credit available in this course.
+Instead, almost all work you do in this course can be revised and resubmitted to allow you to improve your work and raise your grade.
+Here are how revisions will work on the specific learning tasks throughout the course.&lt;/p&gt;
+&lt;h2 id=&#34;learning-activities-and-learning-journals&#34;&gt;Learning Activities and Learning Journals&lt;/h2&gt;
+&lt;p&gt;These items may not be revised as these are graded on the basis of completeness and effort and are intended to be done once.&lt;/p&gt;
+&lt;h2 id=&#34;learning-targets&#34;&gt;Learning Targets&lt;/h2&gt;
+&lt;p&gt;These tasks can be revised by reattempting the item on a later Learning Target Check or through one of the other means described in &lt;a href=&#34;https://sta518.github.io/course-structure/grading/#learning-target-checks&#34;&gt;Grading&lt;/a&gt;.
+That is, if you do not earn a check for a particular Learning Target on an Check, you can 1) redo a similar problem on a later Learning Target CHeck, 2) schedule a video conference to attempt a similar problem, 3) create a video working through a similar problem, or 4) explain why you believe work that you submitted on a Project met the standards for that Learning Target.&lt;/p&gt;
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+&lt;p&gt;Projects earning &lt;strong&gt;Sufficient&lt;/strong&gt;, &lt;strong&gt;Not Yet&lt;/strong&gt;, or &lt;strong&gt;Incomplete&lt;/strong&gt; can be revised and resubmitted at any time.
+They will be regraded using the same standards as originally used.
+However, there are two limitations on your revisions and resubmissions for Projects:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You cannot submit more than two Projects per week. That is, you can only submit two new Projects, one new Project and one resubmission, or two resubmissions per week.&lt;/li&gt;
+&lt;li&gt;If you receive an &amp;ldquo;&lt;em&gt;I&lt;/em&gt;&amp;rdquo; on your original submission, you must schedule an appointment with me to discuss that Project in more detail.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

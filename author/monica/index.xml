@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monica | STA 418\518</title>
+    <link>https://sta518.github.io/author/monica/</link>
+      <atom:link href="https://sta518.github.io/author/monica/index.xml" rel="self" type="application/rss+xml" />
+    <description>Monica</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021</copyright>
+    <image>
+      <url>https://sta518.github.io/author/monica/avatar_huf3c7d84751bc167c603c3baf43866ac5_91191_270x270_fill_lanczos_center_2.png</url>
+      <title>Monica</title>
+      <link>https://sta518.github.io/author/monica/</link>
+    </image>
+    
+  </channel>
+</rss>

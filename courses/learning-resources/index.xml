@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning Resources | STA 418\518</title>
+    <link>https://sta518.github.io/courses/learning-resources/</link>
+      <atom:link href="https://sta518.github.io/courses/learning-resources/index.xml" rel="self" type="application/rss+xml" />
+    <description>Learning Resources</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sta518.github.io/media/sta518-sticker.png</url>
+      <title>Learning Resources</title>
+      <link>https://sta518.github.io/courses/learning-resources/</link>
+    </image>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://sta518.github.io/courses/learning-resources/github/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sta518.github.io/courses/learning-resources/github/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://happygitwithr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Happy Git with R&lt;/a&gt; by Jenny Bryan&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://sta518.github.io/courses/learning-resources/markdown/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sta518.github.io/courses/learning-resources/markdown/</guid>
+      <description>&lt;h3 id=&#34;markdown&#34;&gt;Markdown&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://daringfireball.net/projects/markdown/syntax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown Syntax Summary&lt;/a&gt; by John Gruber (creator of Markdown Format)&lt;/p&gt;
+&lt;h3 id=&#34;github-flavored&#34;&gt;GitHub-flavored&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Markdown Cheat Sheet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/tiimgreen/github-cheat-sheet#imagesgifs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gifs&lt;/a&gt; (this is also a &lt;strong&gt;large&lt;/strong&gt; collection of additional GitHub features)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio Markdown Cheat Sheet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown: The Definitive Guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown: Creating Websites with R Markdown&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bookdown.org/yihui/bookdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bookdown: Authoring Books and Technical Documents with R Markdown&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://sta518.github.io/courses/learning-resources/r/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sta518.github.io/courses/learning-resources/r/</guid>
+      <description>&lt;h3 id=&#34;programming&#34;&gt;Programming&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://rstudio-education.github.io/hopr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hands-On Programming with R&lt;/a&gt; by Garrett Grolemund&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://r-pkgs.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Packages&lt;/a&gt; by Hadley Wickham and Jenny Bryan&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://adv-r.hadley.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced R&lt;/a&gt; by Hadley Wickham&lt;/p&gt;
+&lt;h3 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://ggplot2-book.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ggplot2: Elegant Graphics for Data Analysis&lt;/a&gt; by Hadley Wickham&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://r-graphics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Graphics Cookbook&lt;/a&gt; by Winston Chang&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://clauswilke.com/dataviz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fundamental of Data Visualization&lt;/a&gt; by Claus O. Wilke&lt;/p&gt;
+&lt;h3 id=&#34;additional-resources&#34;&gt;Additional Resources&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://style.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The tidyverse style guide&lt;/a&gt; by Hadley Wickham&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bookdown.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured bookdown publications&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jrnold.github.io/r4ds-exercise-solutions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;solutions&amp;rdquo; for R4DS&lt;/a&gt; by Jeffrey Arnold&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emily | STA 418\518</title>
+    <link>https://sta518.github.io/author/emily/</link>
+      <atom:link href="https://sta518.github.io/author/emily/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emily</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021</copyright>
+    <image>
+      <url>https://sta518.github.io/author/emily/avatar_hu86d5d7ce70c5e22cedbe00936190c5f4_79333_270x270_fill_lanczos_center_2.png</url>
+      <title>Emily</title>
+      <link>https://sta518.github.io/author/emily/</link>
+    </image>
+    
+  </channel>
+</rss>

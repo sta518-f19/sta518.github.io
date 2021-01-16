@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leonard | STA 418\518</title>
+    <link>https://sta518.github.io/author/leonard/</link>
+      <atom:link href="https://sta518.github.io/author/leonard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leonard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021</copyright>
+    <image>
+      <url>https://sta518.github.io/author/leonard/avatar_hu617c0675d8c0aeb176a1283c302ca084_88882_270x270_fill_lanczos_center_2.png</url>
+      <title>Leonard</title>
+      <link>https://sta518.github.io/author/leonard/</link>
+    </image>
+    
+  </channel>
+</rss>
