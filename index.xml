@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>STA 418\518</title>
+    <title>STA 418/518</title>
     <link>https://sta518.github.io/</link>
       <atom:link href="https://sta518.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>STA 418\518</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <description>STA 418/518</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sta518.github.io/media/sta518-sticker.png</url>
-      <title>STA 418\518</title>
+      <title>STA 418/518</title>
       <link>https://sta518.github.io/</link>
     </image>
     
     <item>
       <title>GitHub</title>
       <link>https://sta518.github.io/courses/learning-resources/github/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       <guid>https://sta518.github.io/courses/learning-resources/github/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://happygitwithr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Happy Git with R&lt;/a&gt; by Jenny Bryan&lt;/p&gt;
 </description>
@@ -24,34 +24,46 @@
     <item>
       <title>Learning Tasks</title>
       <link>https://sta518.github.io/courses/course-grading/learning-tasks/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       <guid>https://sta518.github.io/courses/course-grading/learning-tasks/</guid>
-      <description>&lt;p&gt;This course will use a form of Team-Based Learning, which encourages collaboration and active learning for both individuals and teams.
-The course is divided into 12 &lt;a href=&#34;course/course-structure/modules/&#34;&gt;Learning Modules&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;This course has two different types of tasks: learning activities and learning checks.&lt;/p&gt;
 &lt;h3 id=&#34;learning-activities&#34;&gt;Learning Activities&lt;/h3&gt;
-&lt;p&gt;How we prepare for our class sessions is essential for Team-Based Learning.
-Each class session follows the sequential pattern:&lt;/p&gt;
+&lt;p&gt;How we prepare for our class sessions is essential.
+Each class session follows the somewhat sequential pattern of:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Readings&lt;/strong&gt;: Prior to each class session, you will complete assigned readings (which may also include watching videos). These readings contain core concepts and ideas needed to be successful during the activity for that class session. Readings will be provided via Blackboard.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Preparation&lt;/strong&gt;: A preparation will have you submit work on items that demonstrate a baseline understanding. These items will focus on the core concepts and ideas from the readings. The preparations will be administered via Blackboard.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Clarifying Discussion&lt;/strong&gt;: On occasion, a short lecture may be provided to clarify points of confusion which surface from the preparation or to &amp;ldquo;set the stage&amp;rdquo; for an upcoming activity. These will occur at the discretion of the professor, but students may also provide requests for clarification on items by posting to the community repository on GitHub. Posts on this community repository will be viewable by all students and questions email to the professor may be instructed to instead be posted here so that the response is available to all students. Other students are strong encouraged to participate in posts made to the community repository.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Activity&lt;/strong&gt;: The preparation portion of a class session is to assure individual accountability to the team. During class sessions we will work through a series of activities. The activities require you and your team members to apply concepts from the readings to a series of scenario-based questions which allow you to demonstrate knowledge of one or more of the Learning Targets. There are planned check points at which point you will contact your professor to check your answers and provide clarifying discussion on items you got wrong (or you are not sure why you got an item right!). Your professor will also be cycling through the team breakout rooms to be available for intermediate clarification. Activities will typically need to be completed outside of class and evidence of an honest effort (a link to your team activity repository) will be submitted to Blackboard. At times, you might be asked to do follow-up tasks to extend an activity.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;learning-journals&#34;&gt;Learning Journals&lt;/h3&gt;
-&lt;p&gt;I want to hear about what you learned and what you did to help you make connections between the material.
+&lt;li&gt;&lt;strong&gt;Read and Watch&lt;/strong&gt;: Prior to each class session, you will complete assigned readings (which may also include watching videos).
+These readings contain core concepts and ideas needed to be successful during the activity for that class session.
+Readings will be provided via Blackboard.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Do&lt;/strong&gt;: A Preparation will have you submit work on items that demonstrate a baseline understanding.
+These items will focus on the core concepts and ideas from the readings.
+The Preparations will be administered via Blackboard.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ask&lt;/strong&gt;: As you are completing the readings and Preparations, things may be unclear or seem muddy.
+At the end of every Preparation, you will be requested to post these things to the community repository on GitHub.
+Posts on this community repository will be viewable by all students.
+Questions emailed to the professor may be instructed to instead be posted in the community repository so that the response is available to all students.
+All students are strongly encouraged to participate in posts made to the community repository.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Extend&lt;/strong&gt;: The Preparation tasks are to assure individual accountability.
+During class sessions we will work through a series of activities that require you and your Team members to apply concepts from the readings to a series of scenario-based questions.
+This allows you to demonstrate knowledge of one or more of the Learning Targets.
+There are planned check points at which point you will contact your professor to check your answers and provide clarifying discussion on items you got wrong (or you are not sure why you got an item right!).
+Your professor will also be cycling through the team breakout rooms to be available for intermediate clarification.
+Activities will typically need to be completed outside of class.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reflect&lt;/strong&gt;: I want to hear about what you learned and what you did to help you make connections between the material.
 To facilitate this, and to further encourage engagement with the course content, you will create entries in a digital Learning Journal - a private GitHub repository that only you (individually) and your professor have access to.
-More details and examples will be provided in the first Preparation.&lt;/p&gt;
-&lt;h3 id=&#34;learning-target-checks&#34;&gt;Learning Target Checks&lt;/h3&gt;
-&lt;p&gt;Roughly every other week, you will receive a collection of tasks for each &lt;a href=&#34;https://sta518.github.io/courses/course-structure/learning-targets/&#34;&gt;Learning Target&lt;/a&gt; that has been covered up to that point.
-Each task will include a detailed explanation of what constitutes acceptable work for that Learning Target.&lt;/p&gt;
-&lt;h3 id=&#34;projects&#34;&gt;Projects&lt;/h3&gt;
-&lt;p&gt;There will be eight projects that are meant to have you extend the in-class activities.
-You are welcome to begin working on these as soon as they have been made available.
-There is no due date for projects other than the last day of classes (i.e., by 11:59 pm on Friday, April 23).
-You can submit projects multiple times (after receiving feedback); however, you cannot submit more than two projects per week.&lt;/p&gt;
-&lt;p&gt;During finals week, you will be submitting two items:&lt;/p&gt;
+More details and examples will be provided in the first Preparation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;learning-checks&#34;&gt;Learning Checks&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Learning Target Checks&lt;/strong&gt;: Roughly every other week, you will receive a collection of tasks for each &lt;a href=&#34;https://sta518.github.io/courses/course-structure/learning-targets/&#34;&gt;Learning Target&lt;/a&gt; that has been covered up to that point.
+Each task will include a detailed explanation of what constitutes acceptable work for that Learning Target.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects&lt;/strong&gt;: There will be eight Projects for you to choose from and one required Team Project that are designed to have you extend the in-class activities.
+You are welcome to begin working on these Projects as soon as are made available.
+There are no due dates for the eight Projects other than the last day of classes (i.e., by 11:59 pm on the last Friday prior to Finals Week).
+You can submit Projects multiple times (after receiving feedback); however, you cannot submit more than two Projects per week.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During Finals Week, you will be submitting two items:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;A big-picture group project (Project 8) that also contributes to the plus/minus designation on your final course grade, and&lt;/li&gt;
+&lt;li&gt;A big-picture Team Project, and&lt;/li&gt;
 &lt;li&gt;A final Learning Target Check that gives you the chance to meet any Learning Targets that you have not yet completed.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
@@ -60,7 +72,7 @@ You can submit projects multiple times (after receiving feedback); however, you 
     <item>
       <title>Technology</title>
       <link>https://sta518.github.io/courses/course-policies/technology/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       <guid>https://sta518.github.io/courses/course-policies/technology/</guid>
       <description>&lt;!-- 
 For connecting to LMS - LATER
@@ -73,10 +85,12 @@ For connecting to LMS - LATER
 &lt;li&gt;&lt;strong&gt;A modern web browser&lt;/strong&gt;.
 &lt;a href=&#34;https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Chrome&lt;/a&gt; or &lt;a href=&#34;https://www.microsoft.com/en-us/edge?form=MA13DE&amp;amp;OCID=MA13DE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Edge&lt;/a&gt; are preferred, though &lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla Firefox&lt;/a&gt; should also work.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Reliable access to high-speed internet&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Use a webcam during Blackboard meetings&lt;/strong&gt;.
-In order to increase active participation and engagement in this class, students are expected to turn on their webcam during Blackboard meetings.
-There will be times where you 
+&lt;li&gt;&lt;strong&gt;Use a webcam and microphone during Blackboard meetings&lt;/strong&gt;.
+In order to increase active participation and engagement in this class, students are expected to turn on their webcam and microphone during Blackboard meetings.
 Students that do not wish to be on camera or are unable to use a camera (e.g., due to technical difficulty or lack of access to a device with a camera) should communicate with their instructor.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Highly Recommended&lt;/em&gt;: Wired headphones.
+When communicating with your Team during Blackboard meetings, there might be a lot echos or feedback.
+Wired headphones can help with this.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If you have any issue with accessing the above for whatever reason, let me know as soon as possible.
 I may know of resources that can help you for your particular case.&lt;/p&gt;
@@ -85,25 +99,21 @@ I may know of resources that can help you for your particular case.&lt;/p&gt;
 &lt;p&gt;We will access R/RStudio through GVSU&amp;rsquo;s &lt;a href=&#34;https://rstudio.hpc.gvsu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio Server&lt;/a&gt;.
 Directions for to how log in to this server will be provided in an early activity.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://cloud.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; and &lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio&lt;/a&gt; are freely available.
-You may choose to install these applications on your personal machine and I would encourage you to follow Jenny Bryan et al. &lt;a href=&#34;https://happygitwithr.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Happy Git and GitHub for the useR&lt;/a&gt; guide.&lt;/p&gt;
+You may choose to install these applications on your personal machine and I would encourage you to follow the guide by Jenny Bryan et al.: &lt;a href=&#34;https://happygitwithr.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Happy Git and GitHub for the useR&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;github&#34;&gt;GitHub&lt;/h2&gt;
 &lt;p&gt;We will be using &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; extensively throughout this course for creating documents, completing assignments, discussions, and collaboration.
 GVSU&amp;rsquo;s RStudio Server will also provide us with access to Git (a way to communicate between RStudio and GitHub).&lt;/p&gt;
 &lt;p&gt;You may choose to install &lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git&lt;/a&gt; on your personal machine and I would again point you to the &lt;em&gt;Happy Git&lt;/em&gt; guide from Bryan et al.&lt;/p&gt;
 &lt;h2 id=&#34;blackboard&#34;&gt;Blackboard&lt;/h2&gt;
 &lt;p&gt;All assignments, documents, and grades will be posted on the &lt;a href=&#34;https://mybb.gvsu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blackboard&lt;/a&gt; course site.
-You will also use this for submitting assignments which will have due dates that are visible in your Blackboard calendar&lt;/p&gt;
-&lt;h2 id=&#34;google-suite&#34;&gt;Google Suite&lt;/h2&gt;
-&lt;p&gt;A Google Calendar with all due dates and other important time-sensitive information will be available on Blackboard.
-This calendar will be kept up-to-date to the best of my ability.
-If you notice any conflicts in times or dates, please let me know so I can correct them.&lt;/p&gt;
+You will also use this for submitting assignments and all due dates will be visible in your Blackboard calendar.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Getting Help</title>
       <link>https://sta518.github.io/courses/course-policies/getting-help/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       <guid>https://sta518.github.io/courses/course-policies/getting-help/</guid>
       <description>&lt;!-- 
 For connecting to LMS - LATER
@@ -112,8 +122,8 @@ For connecting to LMS - LATER
 --&gt; 
 &lt;p&gt;You can ask questions about anything at any time without judgment.
 I want to help you succeed.&lt;/p&gt;
-&lt;h2 id=&#34;community-discussion&#34;&gt;Community Discussion&lt;/h2&gt;
-&lt;p&gt;All asynchronous course discussions will be through GitHub on the STA 418\518 community repository (link provided on Blackboard).
+&lt;h2 id=&#34;github-community-discussion&#34;&gt;GitHub Community Discussion&lt;/h2&gt;
+&lt;p&gt;All asynchronous course discussions will be through GitHub in the STA 418/518 community repository (link provided on Blackboard).
 This is a &lt;em&gt;private discussion forum&lt;/em&gt; so only individuals in our class can participate in it.
 However, this forum is not a place to discuss personal information such as grades or private concerns - that would be best to email me about.
 I will be available to assist you, but your peers will also be a great resource.
@@ -121,38 +131,38 @@ I encourage you to seek help in ways that are visible to others so that all can 
 &lt;p&gt;One of our first activities will be to create Issues on GitHub to help you become comfortable with this process.&lt;/p&gt;
 &lt;h2 id=&#34;class-sessions&#34;&gt;Class Sessions&lt;/h2&gt;
 &lt;p&gt;You may prefer to get your questions answered live.
-STA 418\518 will meet synchronously in live sessions through Blackboard Collaborate this semester.
+STA 418/518 will meet synchronously in live sessions through Blackboard Collaborate this semester.
 These sessions will be recorded and available to all students in that section afterwards.
 These live sessions are an excellent opportunity to ask questions about course material, assignments, projects, or other course details.&lt;/p&gt;
 &lt;p&gt;Leading up to these sessions, I will solicit additional items beyond what I have planned to cover through the GitHub community repository.
-If you post your items to these GitHub Issues at least two hours prior to the session, I will do my best to plan a brief demonstration, lesson, etc. covering them.
-I may choose to record a brief demonstration for these items.
-These recordings would be made available on Blackboard.&lt;/p&gt;
+If you post your items to these GitHub Issues by noon on the dates of our class sessions, I will do my best to plan a demonstration, lesson, etc. covering them.
+I may choose to record these items instead of covering them during our class session.
+All recordings would be made available on Blackboard.&lt;/p&gt;
 &lt;h3 id=&#34;attendance&#34;&gt;Attendance&lt;/h3&gt;
-&lt;p&gt;Again, each class meeting will be live-streamed so that you can participate remotely.
-It is critical that you actually attend the meetings.
-Note that GVSU has strengthened its &lt;a href=&#34;https://www.gvsu.edu/provost/temporary-academic-policies-winter-2021-semester-only-approved-252.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;attendance policy for Winter 2021&lt;/a&gt; that states that you are expected to be in attendance at synchronous online meetings.&lt;/p&gt;
-&lt;h2 id=&#34;individual-sessions&#34;&gt;Individual Sessions&lt;/h2&gt;
-&lt;p&gt;You are also welcome to meet with me individually (or with team members).
+&lt;p&gt;Again, each class meeting will be live-streamed so that you can participate remotely - there is no in-person component to this course.
+However, it is critical that you actually attend the meetings.
+Note that GVSU has strengthened its &lt;a href=&#34;https://www.gvsu.edu/provost/temporary-academic-policies-winter-2021-semester-only-approved-252.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;attendance policy&lt;/a&gt; that states that you are expected to be in attendance at synchronous online meetings.&lt;/p&gt;
+&lt;h2 id=&#34;additional-sessions&#34;&gt;Additional Sessions&lt;/h2&gt;
+&lt;p&gt;You are also welcome to meet with me individually (or with Team members).
 Individual sessions are an excellent opportunity for you to ask questions about graduate schools, research opportunities, or careers in statistics or data science.
 Additionally, during individual sessions you can ask me about your grades or other personal items.&lt;/p&gt;
 &lt;p&gt;Due to public health concerns, all student meetings this semester will be conducted remotely unless you have a specific need that requires a physical meeting outside of class.
 Email me to let me know that you would like to meet in-person and we will arrange a socially distanced-meeting.&lt;/p&gt;
-&lt;p&gt;I typically check email between 7 am and 6 pm on weekdays and occasionally during the weekend.
+&lt;p&gt;I typically check email between 8 am and 5 pm on weekdays and occasionally during the weekend.
 I do my best to respond promptly to any email, but please do not expect an immediate response.
 I may need up to 6 hours to respond depending on my schedule and the length of my response.&lt;/p&gt;
 &lt;h3 id=&#34;student-drop-in-hours&#34;&gt;Student Drop-In Hours&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Monday, Tuesday, and Thursday, 1:00 – 2:00 pm&lt;/strong&gt; I will be available online for drop-in visitors.
-A Google Meet video conference link will be shared with you on Blackboard where you can access these sessions.
+&lt;p&gt;I will announce times where I will be available online for drop-in visitors.
+A Google Meet video conference link will be shared with you on Blackboard where you can access these drop-in sessions.
 You do not need an appointment to attend.
-If you cannot attend these Student Drop-In Hours, you can contact me by &lt;a href=&#34;mailto:dykesb@gvsu.edu&#34;&gt;email&lt;/a&gt; or by scheduling an appointment in the Google Calendar that is shared with you on Blackboard.&lt;/p&gt;
+If you cannot attend these Student Drop-In Hours, you can contact me by email or by scheduling an appointment in the Appointment Google Calendar link that is shared with you on Blackboard.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Grading</title>
       <link>https://sta518.github.io/courses/course-grading/grading/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       <guid>https://sta518.github.io/courses/course-grading/grading/</guid>
       <description>&lt;p&gt;Details on how proficiency grading relates to the specific learning tasks are provided here. All items submitted use the same rubric, though some grades are not possible for certain tasks (e.g., Learning Journals cannot earn an &amp;ldquo;Excellent&amp;rdquo; or &amp;ldquo;Not Yet&amp;rdquo;).&lt;/p&gt;
 &lt;ul&gt;
@@ -161,7 +171,7 @@ If you cannot attend these Student Drop-In Hours, you can contact me by &lt;a hr
 &lt;li&gt;Yes. Is the work complete and well communicated?
 &lt;ul&gt;
 &lt;li&gt;Yes; &lt;strong&gt;Excellent&lt;/strong&gt;: The work meets or exceeds the expectations of the assignment. Communication is clear and complete. Mastery of the concepts is evident. There are not any major errors. This work could be used as an exemplary classroom example.&lt;/li&gt;
-&lt;li&gt;No; &lt;strong&gt;Sufficient&lt;/strong&gt;: Understanding of the concepts is evident through correct work and clear, audience-appropriate explanations. Some revision or expansion is needed, but no major gaps or errors are present. No additional instruction on the concepts is needed.&lt;/li&gt;
+&lt;li&gt;No; &lt;strong&gt;Satisfactory&lt;/strong&gt;: Understanding of the concepts is evident through correct work and clear, audience-appropriate explanations. Some revision or expansion is needed, but no major gaps or errors are present. No additional instruction on the concepts is needed.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;No. Is there evidence of partial understanding?
@@ -174,32 +184,32 @@ If you cannot attend these Student Drop-In Hours, you can contact me by &lt;a hr
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;This ESNI rubric is based on the EMRN rubric from Dr. Robert Talbert: &lt;a href=&#34;http://bit.ly/talbert_emrn&#34;&gt;http://bit.ly/talbert_emrn&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;learning-activities-and-learning-journals&#34;&gt;Learning Activities and Learning Journals&lt;/h2&gt;
-&lt;p&gt;These tasks will be graded either &lt;strong&gt;Sufficient&lt;/strong&gt; or &lt;strong&gt;Incomplete&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;learning-activities&#34;&gt;Learning Activities&lt;/h2&gt;
+&lt;p&gt;Preparations and Learning Journals will be graded either &lt;strong&gt;Satisfactory&lt;/strong&gt; or &lt;strong&gt;Incomplete&lt;/strong&gt;.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;A &lt;strong&gt;Sufficient&lt;/strong&gt; is given if the work is turned in on time and every item has a response that represents a good-faith effort to be complete.&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;Satisfactory&lt;/strong&gt; is given if the work is turned in on time and every item has a response that represents a good-faith effort to be complete.&lt;/li&gt;
 &lt;li&gt;An &lt;strong&gt;Incomplete&lt;/strong&gt; will be given if the work has missing responses (even if by accident), work that includes responses like, &amp;ldquo;I don&amp;rsquo;t know,&amp;rdquo; or shows insufficient effort to give a good-faith response and work that is late (even if by accident).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Correctness of a submission is not used to determine your mark.&lt;/p&gt;
 &lt;h2 id=&#34;learning-target-checks&#34;&gt;Learning Target Checks&lt;/h2&gt;
 &lt;p&gt;There are twenty &lt;a href=&#34;https://sta518.github.io/courses/course-structure/learning-targets/&#34;&gt;Learning Targets&lt;/a&gt; in this course, of which ten are designated as &lt;strong&gt;Core&lt;/strong&gt; targets due to their nature in statistical computing and the other ten are designated as &lt;strong&gt;Supplemental&lt;/strong&gt; targets.
 There are two levels of achievement for a Learning Target: &lt;em&gt;Competent&lt;/em&gt; and &lt;em&gt;Proficient&lt;/em&gt;.
-You will have numerous opportunities to demonstrate your level of understanding on the Learning Targets throughout the semester and every time they will be graded either &lt;strong&gt;Sufficient&lt;/strong&gt;, &lt;strong&gt;Not Yet&lt;/strong&gt;, or &lt;strong&gt;Incomplete&lt;/strong&gt;.&lt;/p&gt;
+You will have numerous opportunities to demonstrate your level of understanding on the Learning Targets throughout the semester and every time they will be graded either &lt;strong&gt;Satisfactory&lt;/strong&gt;, &lt;strong&gt;Not Yet&lt;/strong&gt;, or &lt;strong&gt;Incomplete&lt;/strong&gt;.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;To have a Learning Target rated as &lt;em&gt;Competent&lt;/em&gt;, you must earn &lt;strong&gt;one Sufficient&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;To have a Learning Target rated as &lt;em&gt;Proficient&lt;/em&gt;, you must earn &lt;strong&gt;two Sufficient&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;To have a Learning Target rated as &lt;em&gt;Competent&lt;/em&gt;, you must earn &lt;strong&gt;one Satisfactory&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;To have a Learning Target rated as &lt;em&gt;Proficient&lt;/em&gt;, you must earn &lt;strong&gt;two Satisfactory&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;You can earn a &lt;strong&gt;Sufficient&lt;/strong&gt; on a Learning Target in four different ways:&lt;/p&gt;
+&lt;p&gt;You can earn a &lt;strong&gt;Satisfactory&lt;/strong&gt; on a Learning Target in four different ways:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Complete the Learning Target on a Learning Target Check&lt;/strong&gt; that meets the criteria for acceptable quality.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Schedule an oral assessment&lt;/strong&gt; through a video conference where I will provide you with a new version of a Learning Target Check type problem and you work through the problem live at an acceptable level.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Create a video&lt;/strong&gt; of yourself working out the solution to an Learning Target Check type problem, that I will create for you, and submit the video. Your video must adhere to standards for video creation (e.g., video must have clear sound and keep your face, voice, work in the frame at all times). You will also be expected to have a follow-up video conference with me to discuss the solution and answer additional related questions.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Use work on a Project&lt;/strong&gt; and schedule a video conference with me to explain how your work on the Project demonstrates proficiency of the Learning Target and answer additional related questions.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;No more than one Sufficient can be earned through options 2-4&lt;/strong&gt;.
-That is, to have a Learning Target rated as &lt;em&gt;Proficient&lt;/em&gt;, you must earn one &lt;strong&gt;Sufficient&lt;/strong&gt; through an Learning Target Check.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;No more than one Satisfactory can be earned through options 2-4&lt;/strong&gt;.
+That is, to have a Learning Target rated as &lt;em&gt;Proficient&lt;/em&gt;, you must earn at least one &lt;strong&gt;Satisfactory&lt;/strong&gt; through an Learning Target Check.&lt;/p&gt;
 &lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
-&lt;p&gt;Work on Projects will earn one of four designations: &lt;strong&gt;Excellent&lt;/strong&gt;, &lt;strong&gt;Sufficient&lt;/strong&gt;, &lt;strong&gt;Not Yet&lt;/strong&gt;, or &lt;strong&gt;Incomplete&lt;/strong&gt;.
+&lt;p&gt;Work on Projects will earn one of four designations: &lt;strong&gt;Excellent&lt;/strong&gt;, &lt;strong&gt;Satisfactory&lt;/strong&gt;, &lt;strong&gt;Not Yet&lt;/strong&gt;, or &lt;strong&gt;Incomplete&lt;/strong&gt;.
 Whenever you submit a Project, you will be provided with actionable feedback on what was done well along with what needs to be improved.
 Specific details on how these marks are assigned for each Project will be provided to you and discussed prior to the Projects being made available.&lt;/p&gt;
 &lt;h2 id=&#34;final-grade-determination&#34;&gt;Final Grade Determination&lt;/h2&gt;
@@ -211,6 +221,7 @@ Your base grade is the highest grade level for which all the requirements have b
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Activity&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
 &lt;th&gt;D&lt;/th&gt;
 &lt;th&gt;C&lt;/th&gt;
 &lt;th&gt;B&lt;/th&gt;
@@ -220,44 +231,41 @@ Your base grade is the highest grade level for which all the requirements have b
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Core Learning &lt;br&gt; Targets (10)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;5 Competent+&lt;/td&gt;
-&lt;td&gt;5 Competent+, &lt;br&gt; 5 Proficient&lt;/td&gt;
-&lt;td&gt;3 Competent+, &lt;br&gt; 7 Proficient&lt;/td&gt;
+&lt;td&gt;5 Competent+,&lt;br&gt;5 Proficient&lt;/td&gt;
+&lt;td&gt;3 Competent+,&lt;br&gt;7 Proficient&lt;/td&gt;
 &lt;td&gt;10 Proficient&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Supplemental Learning &lt;br&gt; Targets (&lt;del&gt;10&lt;/del&gt; 9)&lt;/td&gt;
+&lt;td&gt;Supplemental Learning &lt;br&gt; Targets (10)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;5 Competent+&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;3&lt;/del&gt; 4 Competent+, &lt;br&gt; &lt;del&gt;3&lt;/del&gt; 2 Proficient&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;5&lt;/del&gt; 6 Competent+, &lt;br&gt; &lt;del&gt;3&lt;/del&gt; 2 Proficient&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;3&lt;/del&gt; 4 Competent+,&lt;br&gt; &lt;del&gt;5&lt;/del&gt; 4 Proficient&lt;/td&gt;
+&lt;td&gt;3 Competent+,&lt;br&gt;3 Proficient&lt;/td&gt;
+&lt;td&gt;5 Competent+, &lt;br&gt;3 Proficient&lt;/td&gt;
+&lt;td&gt;3 Competent+,&lt;br&gt;5 Proficient&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Learning Activities &lt;del&gt;(48)&lt;/del&gt; (29)&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;24&lt;/del&gt; 15&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;34&lt;/del&gt; 20&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;39&lt;/del&gt; 23&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;44&lt;/del&gt; 26&lt;/td&gt;
+&lt;td&gt;Projects (9+)&lt;/td&gt;
+&lt;td&gt;418&lt;/td&gt;
+&lt;td&gt;2 Satisfactory+&lt;/td&gt;
+&lt;td&gt;5 Satisfactory+&lt;/td&gt;
+&lt;td&gt;2 Excellent,&lt;br&gt;4 Satisfactory+&lt;/td&gt;
+&lt;td&gt;4 Excellent,&lt;br&gt;2 Satisfactory+&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Learning Journals (95)&lt;/td&gt;
-&lt;td&gt;11&lt;/td&gt;
-&lt;td&gt;21&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;42&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Projects (8)&lt;/td&gt;
-&lt;td&gt;2 Sufficient+&lt;/td&gt;
-&lt;td&gt;5 Sufficient+&lt;/td&gt;
-&lt;td&gt;4 Sufficient+, &lt;br&gt; 2 Excellent&lt;/td&gt;
-&lt;td&gt;2 Sufficient+, &lt;br&gt; 4 Excellent&lt;/td&gt;
+&lt;td&gt;Projects (9+)&lt;/td&gt;
+&lt;td&gt;518&lt;/td&gt;
+&lt;td&gt;3 Satisfactory+&lt;/td&gt;
+&lt;td&gt;6 Satisfactory+&lt;/td&gt;
+&lt;td&gt;2 Excellent,&lt;br&gt;5 Satisfactory+&lt;/td&gt;
+&lt;td&gt;4 Excellent,&lt;br&gt;3 Satisfactory+&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Numbers in parentheses next to each Learning Task are the total number of items currently planned.
 If these totals change, this table will be updated and you will also be notified by a course announcement.
-For Core and Supplemental Learning Targets, “Competent+” means “either &lt;em&gt;Competent&lt;/em&gt; or &lt;em&gt;Proficient&lt;/em&gt;”; for Projects, “Sufficient+” means “either Sufficient or Excellent”.&lt;/p&gt;
+For Core and Supplemental Learning Targets, “Competent+” means “either &lt;em&gt;Competent&lt;/em&gt; or &lt;em&gt;Proficient&lt;/em&gt;”; for Projects, “Satisfactory+” means “either Satisfactory or Excellent”.&lt;/p&gt;
 &lt;p&gt;A grade of “F” is given if not all the requirements for a “D” are met.&lt;/p&gt;
 &lt;p&gt;Once your base grade has been determined, a plus/minus distinction may be added to your base grade according to these guidelines:&lt;/p&gt;
 &lt;table&gt;
@@ -270,22 +278,23 @@ For Core and Supplemental Learning Targets, “Competent+” means “either &lt
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;plus&lt;/strong&gt; (+)&lt;/td&gt;
-&lt;td&gt;A “plus” may be added to your base grade if all the requirements for a base grade are satisfied, you earned a Sufficient+ on Project 8, and any of the Learning Targets or Project requirements for the next level up is satisfied.&lt;/td&gt;
+&lt;td&gt;A “plus” may be added to your base grade if all the requirements for a base grade are satisfied, you complete &lt;em&gt;at least&lt;/em&gt; 21 Preparations, &lt;strong&gt;and&lt;/strong&gt; you complete &lt;em&gt;at least&lt;/em&gt; 36 Learning Journals.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;minus&lt;/strong&gt; (-)&lt;/td&gt;
-&lt;td&gt;A “minus” may be added to your base grade for any of the following cases: &lt;br&gt; 1. All requirements for a base grade are satisfied &lt;em&gt;except one&lt;/em&gt; that is no more than two levels below the others. If the deficient area is more than two levels lower, you will either earn a minus earn a full letter grade lower, at my discretion; &lt;strong&gt;or&lt;/strong&gt; &lt;br&gt; 2. You do not earn a Sufficient+ on Project 8.&lt;/td&gt;
+&lt;td&gt;A “minus” may be added to your base grade for any of the following cases: &lt;br&gt;1. All requirements for a base grade are satisfied &lt;em&gt;except one&lt;/em&gt; that is no more than two levels below the others.&lt;br&gt;2. You do not earn a Satisfactory+ on the Team Project;&lt;br&gt;3. You complete less than 16 Preparations; &lt;strong&gt;OR&lt;/strong&gt;&lt;br&gt;4. You complete less than 14 Learning Journals.&lt;br&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: I cannot award an &amp;ldquo;A+&amp;rdquo; or a &amp;ldquo;D-&amp;rdquo; since these grades do not exist at GVSU.&lt;/p&gt;
+&lt;p&gt;Note that if the deficient area is more than two levels lower or you have three or four &amp;ldquo;minus&amp;rdquo; cases, you will either earn a &amp;ldquo;minus&amp;rdquo; or earn a full letter grade lower, at your instructor&amp;rsquo;s discretion;&lt;/p&gt;
+&lt;p&gt;Also note that an &amp;ldquo;A+&amp;rdquo; or a &amp;ldquo;D-&amp;rdquo; cannot be awarded since these grades do not exist at GVSU.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Markdown</title>
       <link>https://sta518.github.io/courses/learning-resources/markdown/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       <guid>https://sta518.github.io/courses/learning-resources/markdown/</guid>
       <description>&lt;h3 id=&#34;markdown&#34;&gt;Markdown&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://daringfireball.net/projects/markdown/syntax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown Syntax Summary&lt;/a&gt; by John Gruber (creator of Markdown Format)&lt;/p&gt;
@@ -313,54 +322,54 @@ For Core and Supplemental Learning Targets, “Competent+” means “either &lt
 &lt;li&gt;Topics: GitHub and Markdown; RStudio and RMarkdown; Git&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Module 2: How do we isolate and summarize information?
+&lt;li&gt;Module 2: How can we quickly visualize information to get a sense of what is going on?
 &lt;ul&gt;
-&lt;li&gt;Topics: Selecting columns; filtering out rows; summarizing variables; creating variables&lt;/li&gt;
+&lt;li&gt;Topics: Grammar of graphics intro; ggplot2; geoms; colors; titles&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Module 3: What is tidy data and how do we restructure data to be tidy?
+&lt;li&gt;Module 3: What are the foundational building blocks of coding in R?
 &lt;ul&gt;
-&lt;li&gt;Topics: Tidy data; pivoting data&lt;/li&gt;
+&lt;li&gt;Topics: Objects, vectors, functions&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Module 4: How do we efficiently combine datasets?
+&lt;li&gt;Module 4: How do we isolate information from within a dataset?
 &lt;ul&gt;
-&lt;li&gt;Topics: Relational data; joins&lt;/li&gt;
+&lt;li&gt;Topics: selecting columns, filter rows, pipes, creating variables&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Module 5: How do we efficiently work with special variable types?
+&lt;li&gt;Module 5: How do we summarize data and present these summaries in a human-readable format?
 &lt;ul&gt;
-&lt;li&gt;Topics: Ordering characters; parsing strings; date-time&lt;/li&gt;
+&lt;li&gt;Topics: Summarizing, groups, restructuring&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Module 6: How do we effectively present data in graphics and tables?
+&lt;li&gt;Module 6: How do we efficiently work with special variable types?
 &lt;ul&gt;
-&lt;li&gt;Topics: Grammar of graphics; tables as graphical objects; combining graphical objects&lt;/li&gt;
+&lt;li&gt;Topics: Ordering characters, date-times, parsing strings&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Module 7: How do we create our own R functions?
+&lt;li&gt;Module 7: How do we combine multiple sources of information?
+&lt;ul&gt;
+&lt;li&gt;Topics: Relational data, joins, web scraping&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Module 8: Return of the plot&amp;hellip; How can we make our data visualizations really &amp;ldquo;pop&amp;rdquo;?
+&lt;ul&gt;
+&lt;li&gt;Topics: Scales, color pallets, facets, combining graphical objects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Module 9: How do we create our own R functions?
 &lt;ul&gt;
 &lt;li&gt;Topics: Functions for humans; conditional execution; function arguments&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Module 8: How do we apply functions to multiple items?
+&lt;li&gt;Module 10: How do we apply functions to multiple items?
 &lt;ul&gt;
 &lt;li&gt;Topics: Loops; functionals; multiple iteration&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Module 9: How do we fit statistical models to data?
+&lt;li&gt;Module 11: How do we use functional programming for statistical analyses?
 &lt;ul&gt;
-&lt;li&gt;Topics: linear models; nested data; model output as tidy data&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Module 10: How do we use probability distributions to explore statistical concepts?
-&lt;ul&gt;
-&lt;li&gt;Topics: Statistical simulations&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Module 11: How do we use resampling methods in statistical inference?
-&lt;ul&gt;
-&lt;li&gt;Topics: Resampling; bootstrap&lt;/li&gt;
+&lt;li&gt;Topics: linear models; nested data; statistical simulations; resampling methods&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Module 12: How do we create interactive data products?
@@ -375,7 +384,7 @@ For Core and Supplemental Learning Targets, “Competent+” means “either &lt
     <item>
       <title>Policies</title>
       <link>https://sta518.github.io/courses/course-policies/policies/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       <guid>https://sta518.github.io/courses/course-policies/policies/</guid>
       <description>&lt;h2 id=&#34;academic-integrity&#34;&gt;Academic Integrity&lt;/h2&gt;
 &lt;p&gt;The university’s academic integrity policy is described in the &lt;a href=&#34;https://www.gvsu.edu/policies/policy.htm?policyId=EFAB64E1-C25B-E1A3-CA2B08B0B821C774&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GVSU Student Code, Section 4&lt;/a&gt;.
@@ -383,15 +392,15 @@ Every student has the responsibility of reading and understanding these policies
 &lt;p&gt;There are many times where you can collaborate on tasks throughout this course; however, at times collaboration may not be allowed.
 Collaboration guidelines for each kind of activity you complete in this course follow.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Preparation, Follow-up, and Learning Journals&lt;/em&gt;: You may collaborate with others, but your write-up must be in your own words.
-You may not copy someone’s work or copy the ideas from someone and simply change the wording to submit it as your own.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Preparations and Learning Journals&lt;/em&gt;: You may collaborate with others, but your write-up must be in your own words.
+You may not copy the work or ideas from someone and simply change the wording to submit it as your own.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Learning Target Checks and Projects&lt;/em&gt;: You may not interact with another person or with unauthorized sources.
 Any evidence of using information from another person or source will be investigated as academic dishonesty.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;All suspected instances of academic dishonesty will be thoroughly investigated, and whether a student has committed academic dishonesty is my determination to make based on the evidence.
 If I determine academic dishonesty has been committed, I will file a report with the Dean of Students, and the minimum penalty will be:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Preparation, Follow-up, and Learning Journals&lt;/em&gt;: A grade of “&lt;em&gt;I&lt;/em&gt;” (&lt;font color=&#34;#ed563a&#34;&gt;&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt;&lt;/font&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Preparations and Learning Journals&lt;/em&gt;: A grade of “&lt;em&gt;I&lt;/em&gt;” (&lt;font color=&#34;#ed563a&#34;&gt;&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt;&lt;/font&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Learning Targets Checks&lt;/em&gt;: A grade of “&lt;em&gt;I&lt;/em&gt;” (&lt;font color=&#34;#ed563a&#34;&gt;&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt;&lt;/font&gt;) and you may be barred from reattempting.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Projects&lt;/em&gt;: A grade of &amp;ldquo;&lt;em&gt;I&lt;/em&gt;&amp;rdquo; and you will not be allowed to revise or resubmit the Project for the rest of the semester.&lt;/li&gt;
 &lt;/ul&gt;
@@ -405,9 +414,9 @@ Get some &lt;a href=&#34;https://sta518.github.io/courses/policies/getting-help/
 &lt;p&gt;Deadlines for course work will be clearly indicated on the Course Calendar.
 If there are apparent conflicts between dates, let me know so I can correct the issue.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Preparation, Follow-up, and Learning Journals&lt;/em&gt;: No extensions on deadlines are available.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Preparations and Learning Journals&lt;/em&gt;: No extensions on deadlines are available.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Learning Target Checks&lt;/em&gt;: Up to two Learning Target Check deadlines may be extended 12 hours if I am contacted in advance.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Projects&lt;/em&gt;: There is only one set deadline for Projects: the last day of classes (11:59 pm EST on Friday, April 23).
+&lt;li&gt;&lt;em&gt;Projects&lt;/em&gt;: There is only one set deadline for Projects - the last day of classes (i.e., Friday, August 6 by 11:59pm).
 Otherwise, you submit your work when you are ready for it to be graded (subject to the two-items-per-week rule).
 No extension for this deadline is available.&lt;/li&gt;
 &lt;/ul&gt;
@@ -422,8 +431,7 @@ If you encounter issues with technology, use one of the following resources:&lt;
 &lt;li&gt;&lt;em&gt;For help with course tools or applications&lt;/em&gt;: Ask a question on the community discussion repository, seek out the help documentation in the tool or application, or do a targeted Google search.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;recordings-of-blackboard-meetings&#34;&gt;Recordings of Blackboard Meetings&lt;/h2&gt;
-&lt;p&gt;Blackboard meetings will be recorded and will be available to students enrolled in this course as a study aid.
-Recordings will be available for viewing during the Remote Instruction Period subject to the following:&lt;/p&gt;
+&lt;p&gt;Recordings of Blackboard class meetings will be available for viewing subject to the following:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Only students enrolled in the [subject class/section] may view the recording.&lt;/li&gt;
 &lt;li&gt;Students may not post or use the recordings in any other setting (e.g., social media) for any purpose.
@@ -462,15 +470,15 @@ If your state issued identification does not match your preferred name, your nam
 &lt;p&gt;When your myName has been received and reviewed, you will receive an email letting you know either that it has been approved or requesting further information. Once approved, allow up to two days for the myName to be updated across the campus system. More information about myName can be found on the &lt;a href=&#34;https://www.gvsu.edu/lgbtrc/preferred-or-use-name-208.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Milton E. Ford LGBT Resource Center’s page&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;covid-19&#34;&gt;COVID-19&lt;/h2&gt;
 &lt;p&gt;As you are well aware, we will be having class this semester while trying to navigate a global pandemic that seems to change every day.
-Although these plans can be scary and demoralizing, I want you to know that GVSU is doing everything in its power to keep people safe from Covid-19.
-I believe that if we observe reasonable precautions like the ones described here, then while the risk of Covid-19 is still present, there is no reason to be afraid.
+Although these plans can be scary and demoralizing, I want you to know that GVSU is doing everything in its power to keep people safe from COVID-19.
+I believe that if we observe reasonable precautions like the ones described here, then while the risk of COVID-19 is still present, there is no reason to be afraid.
 We will still learn and grow intellectually just as in “typical” times if we stay focused and work together.&lt;/p&gt;
-&lt;p&gt;What follow are general guidelines for how we can work productively together during STA 418\518.&lt;/p&gt;
+&lt;p&gt;What follow are general guidelines for how we can work productively together during STA 418/518.&lt;/p&gt;
 &lt;h3 id=&#34;taking-care-of-yourself&#34;&gt;Taking care of yourself&lt;/h3&gt;
 &lt;p&gt;Of the utmost importance is taking care of your own physical and mental health during these difficult times.
 Make sure you are getting sufficient rest, staying connected to friends and family, and giving yourself time and space to do things you enjoy outside of college.
 The Mayo Clinic provides &lt;a href=&#34;https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/self-care-tips-during-the-covid-19-pandemic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;several tips for maintaining good self-care&lt;/a&gt; in our situation.&lt;/p&gt;
-&lt;p&gt;While we will not be coming to campus for STA 418\518, you are still implored to perform a self-evaluation each day and if you feel even the slightest bit of sickness or Covid-19 symptoms, stay home.
+&lt;p&gt;While we will not be coming to campus for STA 418/518, you are still implored to perform a self-evaluation each day and if you feel even the slightest bit of sickness or COVID-19 symptoms, stay home.
 If you have a class that meets on campus, you should be on campus only if you feel completely healthy.&lt;/p&gt;
 &lt;h3 id=&#34;contingency-plans-for-the-semester&#34;&gt;Contingency plans for the semester&lt;/h3&gt;
 &lt;p&gt;We will be “synchronously online” for the semester, but several things could happen that might alter this setup.
@@ -478,9 +486,9 @@ Here are the initial plans for the most likely of those things.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;If the professor is in self-quarantine, but not because of illness&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;For example, if my partner becomes sick or if my daily self-assessment directs me to stay at home.
 In this case, we will continue synchronous online meetings and an asynchronous option might be introduced.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;If the professor has a Covid-19 infection&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If the professor has a COVID-19 infection&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;The entire course will be moved to an asynchronous online format until I am well enough to resume my responsibilities.
-A substitute instructor may be appointed to grade and give feedback on Preparation and Follow-up tasks and all other graded work will be suspended until I am well enough to grade.&lt;/p&gt;
+A substitute instructor may be appointed to grade and give feedback on Preparations and all other graded work will be suspended until I am well enough to grade.&lt;/p&gt;
 &lt;p&gt;In either of these two cases, you can expect a slowdown in the grading process and substantial changes to the course calendar or syllabus.
 Please monitor your course announcements daily to ensure you have correct information.
 Note that these plans may be changed or overridden by university-wide directives as the semester unfolds.
@@ -494,16 +502,10 @@ These changes will be announced in class and online, and if appropriate, student
 &lt;p&gt;Important dates to keep in mind for this semester are available at the Registrar&amp;rsquo;s &lt;a href=&#34;https://www.gvsu.edu/registrar/academiccalendar.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Calendar&lt;/a&gt;.
 I highlight a few here.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Classes Begin:  Tuesday, January 19
-&lt;ul&gt;
-&lt;li&gt;Martin Luther King, Jr. Holiday observed Monday, January 18&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Winter Break:  Wednesday, March 10&lt;/li&gt;
-&lt;li&gt;Winter Break:  Thursday, April 1&lt;/li&gt;
-&lt;li&gt;Drop Deadline (Grade of “W”):  Friday, April 9, 5 p.m.&lt;/li&gt;
-&lt;li&gt;Classes End:  Saturday, April 24&lt;/li&gt;
-&lt;li&gt;Final Examination Week:  Monday, April 26 – Saturday, May 1&lt;/li&gt;
+&lt;li&gt;Classes Begin: Monday, May 10&lt;/li&gt;
+&lt;li&gt;Drop Deadline (Grade of “W”):  Friday, June 25, 5 p.m.&lt;/li&gt;
+&lt;li&gt;Classes End:  Monday, August 9&lt;/li&gt;
+&lt;li&gt;Final Examination Week:  Tuesday, August 10 – Wednesday, August 11&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -511,7 +513,7 @@ I highlight a few here.&lt;/p&gt;
     <item>
       <title>R</title>
       <link>https://sta518.github.io/courses/learning-resources/r/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       <guid>https://sta518.github.io/courses/learning-resources/r/</guid>
       <description>&lt;h3 id=&#34;programming&#34;&gt;Programming&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://rstudio-education.github.io/hopr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hands-On Programming with R&lt;/a&gt; by Garrett Grolemund&lt;/p&gt;
@@ -531,24 +533,28 @@ I highlight a few here.&lt;/p&gt;
     <item>
       <title>Revisions</title>
       <link>https://sta518.github.io/courses/course-grading/revision/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       <guid>https://sta518.github.io/courses/course-grading/revision/</guid>
       <description>&lt;p&gt;There is no partial credit or extra credit available in this course.
 Instead, almost all work you do in this course can be revised and resubmitted to allow you to improve your work and raise your grade.
 Here are how revisions will work on the specific learning tasks throughout the course.&lt;/p&gt;
-&lt;h2 id=&#34;learning-activities-and-learning-journals&#34;&gt;Learning Activities and Learning Journals&lt;/h2&gt;
-&lt;p&gt;These items may not be revised as these are graded on the basis of completeness and effort and are intended to be done once.&lt;/p&gt;
-&lt;h2 id=&#34;learning-targets&#34;&gt;Learning Targets&lt;/h2&gt;
-&lt;p&gt;These tasks can be revised by reattempting the item on a later Learning Target Check or through one of the other means described in &lt;a href=&#34;https://sta518.github.io/course-structure/grading/#learning-target-checks&#34;&gt;Grading&lt;/a&gt;.
-That is, if you do not earn a check for a particular Learning Target on an Check, you can 1) redo a similar problem on a later Learning Target CHeck, 2) schedule a video conference to attempt a similar problem, 3) create a video working through a similar problem, or 4) explain why you believe work that you submitted on a Project met the standards for that Learning Target.&lt;/p&gt;
-&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
-&lt;p&gt;Projects earning &lt;strong&gt;Sufficient&lt;/strong&gt;, &lt;strong&gt;Not Yet&lt;/strong&gt;, or &lt;strong&gt;Incomplete&lt;/strong&gt; can be revised and resubmitted at any time.
+&lt;h2 id=&#34;learning-activities&#34;&gt;Learning Activities&lt;/h2&gt;
+&lt;p&gt;Preparations and Learning Journals may not be revised as these are graded on the basis of completeness and effort.
+They are intended to be done once.&lt;/p&gt;
+&lt;h2 id=&#34;learning-checks&#34;&gt;Learning Checks&lt;/h2&gt;
+&lt;h3 id=&#34;learning-target-checks&#34;&gt;Learning Target Checks&lt;/h3&gt;
+&lt;p&gt;These tasks can be revised by reattempting the item on a later Learning Target Check or through one of the other means described in the &lt;a href=&#34;https://sta518.github.io/course-structure/grading/#learning-target-checks&#34;&gt;Grading&lt;/a&gt; section.
+Specifically, if you do not earn a check for a particular Learning Target on an Check, you can 1) redo a similar problem on a later Learning Target Check, 2) schedule a video conference to attempt a similar problem, 3) create a video working through a similar problem, or 4) explain why you believe work that you submitted on a Project met the standards for a Learning Target.&lt;/p&gt;
+&lt;h3 id=&#34;projects&#34;&gt;Projects&lt;/h3&gt;
+&lt;p&gt;Projects earning &lt;strong&gt;Satisfactory&lt;/strong&gt;, &lt;strong&gt;Not Yet&lt;/strong&gt;, or &lt;strong&gt;Incomplete&lt;/strong&gt; can be revised and resubmitted at any time.
 They will be regraded using the same standards as originally used.
 However, there are two limitations on your revisions and resubmissions for Projects:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;You cannot submit more than two Projects per week. That is, you can only submit two new Projects, one new Project and one resubmission, or two resubmissions per week.&lt;/li&gt;
 &lt;li&gt;If you receive an &amp;ldquo;&lt;em&gt;I&lt;/em&gt;&amp;rdquo; on your original submission, you must schedule an appointment with me to discuss that Project in more detail.&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;If you choose to revise and resubmit a Project, you must include the feedback that I provided and explain how you used the feedback.&lt;/p&gt;
+&lt;p&gt;The Team Project cannot be revised as it is due during Finals Week.&lt;/p&gt;
 </description>
     </item>
     
@@ -561,37 +567,37 @@ However, there are two limitations on your revisions and resubmissions for Proje
 Ten Learning Targets are designated as &lt;strong&gt;Core&lt;/strong&gt; targets due to their nature in statistical computing and the other ten are designated as &lt;strong&gt;Supplemental&lt;/strong&gt;.
 An important goal for you is to demonstrate competency, and eventually proficiency, in all of the Core Learning Targets and as many of the Supplemental Learning Targets as you can.
 How you demonstrate proficiency in these Learning Targets is discussed in &lt;a href=&#34;https://sta518.github.io/courses/course-grading/grading/#learning-target-checks&#34;&gt;Grading&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Data Wrangling (DW): Import, manage, and clean data&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;data-wrangling-dw-import-manage-and-clean-data&#34;&gt;Data Wrangling (DW): Import, manage, and clean data&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;DW.1&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can import data from a variety of file types&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DW.2&lt;/strong&gt;: I can create or get data from the web&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DW.3&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can isolate information from a larger dataset&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DW.4&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can combine information from multiple sources&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DW.5&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can identify if information is presented in a tidy format and restructure information to be in a tidy format&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DW.6&lt;/strong&gt;: I can put character data into a specified order&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DW.7&lt;/strong&gt;: I can use regular expressions and other string patterns to manipulate text data&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DW.8&lt;/strong&gt;: I can use date/time data to extract portions or perform temporal calculations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DW.2&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can isolate information from a larger dataset&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DW.3&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can combine information from multiple sources&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DW.4&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can restructure information to be in a tidy format&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DW.5&lt;/strong&gt;: I can extract information from web pages or other internet resources&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DW.6&lt;/strong&gt;: I can transform data to be in a format better suited for specific tasks&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DW.7&lt;/strong&gt;: I can use string patterns to manipulate text data&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Data Exploration (DE): Create graphical displays and numerical summaries of data for exploratory analysis and presentations&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;data-summarization-ds-create-graphical-displays-and-numerical-summaries-of-data-for-exploratory-analysis-and-presentations&#34;&gt;Data Summarization (DS): Create graphical displays and numerical summaries of data for exploratory analysis and presentations&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;DS.1&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can create tables of numerical summaries that draw attention to important comparisons&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;DS.2&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can create graphical display of data that highlight key features&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DS.3&lt;/strong&gt;: I can combine multiple graphical displays or numerical summaries into an effective data product&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DS.3&lt;/strong&gt;: I can create graphical displays of data for multiple groups&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DS.4&lt;/strong&gt;: I can combine multiple graphical displays or numerical summaries into an effective data product&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Functional Programming (FP): Write R programs for randomization-based experiments and simulations from probability models&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;functions-and-functional-programming-ffp-create-and-manipulate-r-functions-for-various-analyses&#34;&gt;Functions and Functional Programming (FFP): Create and manipulate R functions for various analyses&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;FP.1&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can write a function that accomplishes a common analysis task&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;FP.2&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can use functional programming to apply a function to each element in data source&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;FP.3&lt;/strong&gt;: I can implement resampling methods to make conclusions about data&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;FP.4&lt;/strong&gt;: I can use common probability distributions to simulate data and explore statistical ideas&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;FP.5&lt;/strong&gt;: I can implement regression and tests of significance to analyze research questions&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;FP.6&lt;/strong&gt;: I can generate personalized reports for multiple clients&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FFP.1&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can write a function that accomplishes a common analysis task&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FFP.2&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can use functional programming to apply a function to each element in data source&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FFP.3&lt;/strong&gt;: I can implement resampling methods to make conclusions about data&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FFP.4&lt;/strong&gt;: I can use common probability distributions to simulate data and explore statistical ideas&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FFP.5&lt;/strong&gt;: I can implement regression and tests of significance to analyze research questions&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Program Documentation (PD): Write clear, efficient, and well-documented R programs&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;program-documentation-pd-write-clear-efficient-and-well-documented-r-programs&#34;&gt;Program Documentation (PD): Write clear, efficient, and well-documented R programs&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;PD.1&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can use a project-based workflow to organize and run reproducible analyses&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;PD.2&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can identify and correct common errors and in R programs&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;PD.3&lt;/strong&gt;: I can explore new functions or packages and implement them into analysis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PD.4&lt;/strong&gt;: I can identify and correct common collaboration errors when working with Git/GitHub&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

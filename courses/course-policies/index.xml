@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Course Policies | STA 418\518</title>
+    <title>Course Policies | STA 418/518</title>
     <link>https://sta518.github.io/courses/course-policies/</link>
       <atom:link href="https://sta518.github.io/courses/course-policies/index.xml" rel="self" type="application/rss+xml" />
     <description>Course Policies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sta518.github.io/media/sta518-sticker.png</url>
       <title>Course Policies</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Technology</title>
       <link>https://sta518.github.io/courses/course-policies/technology/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       <guid>https://sta518.github.io/courses/course-policies/technology/</guid>
       <description>&lt;!-- 
 For connecting to LMS - LATER
@@ -28,10 +28,12 @@ For connecting to LMS - LATER
 &lt;li&gt;&lt;strong&gt;A modern web browser&lt;/strong&gt;.
 &lt;a href=&#34;https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Chrome&lt;/a&gt; or &lt;a href=&#34;https://www.microsoft.com/en-us/edge?form=MA13DE&amp;amp;OCID=MA13DE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Edge&lt;/a&gt; are preferred, though &lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla Firefox&lt;/a&gt; should also work.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Reliable access to high-speed internet&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Use a webcam during Blackboard meetings&lt;/strong&gt;.
-In order to increase active participation and engagement in this class, students are expected to turn on their webcam during Blackboard meetings.
-There will be times where you 
+&lt;li&gt;&lt;strong&gt;Use a webcam and microphone during Blackboard meetings&lt;/strong&gt;.
+In order to increase active participation and engagement in this class, students are expected to turn on their webcam and microphone during Blackboard meetings.
 Students that do not wish to be on camera or are unable to use a camera (e.g., due to technical difficulty or lack of access to a device with a camera) should communicate with their instructor.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Highly Recommended&lt;/em&gt;: Wired headphones.
+When communicating with your Team during Blackboard meetings, there might be a lot echos or feedback.
+Wired headphones can help with this.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If you have any issue with accessing the above for whatever reason, let me know as soon as possible.
 I may know of resources that can help you for your particular case.&lt;/p&gt;
@@ -40,25 +42,21 @@ I may know of resources that can help you for your particular case.&lt;/p&gt;
 &lt;p&gt;We will access R/RStudio through GVSU&amp;rsquo;s &lt;a href=&#34;https://rstudio.hpc.gvsu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio Server&lt;/a&gt;.
 Directions for to how log in to this server will be provided in an early activity.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://cloud.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; and &lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio&lt;/a&gt; are freely available.
-You may choose to install these applications on your personal machine and I would encourage you to follow Jenny Bryan et al. &lt;a href=&#34;https://happygitwithr.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Happy Git and GitHub for the useR&lt;/a&gt; guide.&lt;/p&gt;
+You may choose to install these applications on your personal machine and I would encourage you to follow the guide by Jenny Bryan et al.: &lt;a href=&#34;https://happygitwithr.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Happy Git and GitHub for the useR&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;github&#34;&gt;GitHub&lt;/h2&gt;
 &lt;p&gt;We will be using &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; extensively throughout this course for creating documents, completing assignments, discussions, and collaboration.
 GVSU&amp;rsquo;s RStudio Server will also provide us with access to Git (a way to communicate between RStudio and GitHub).&lt;/p&gt;
 &lt;p&gt;You may choose to install &lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git&lt;/a&gt; on your personal machine and I would again point you to the &lt;em&gt;Happy Git&lt;/em&gt; guide from Bryan et al.&lt;/p&gt;
 &lt;h2 id=&#34;blackboard&#34;&gt;Blackboard&lt;/h2&gt;
 &lt;p&gt;All assignments, documents, and grades will be posted on the &lt;a href=&#34;https://mybb.gvsu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blackboard&lt;/a&gt; course site.
-You will also use this for submitting assignments which will have due dates that are visible in your Blackboard calendar&lt;/p&gt;
-&lt;h2 id=&#34;google-suite&#34;&gt;Google Suite&lt;/h2&gt;
-&lt;p&gt;A Google Calendar with all due dates and other important time-sensitive information will be available on Blackboard.
-This calendar will be kept up-to-date to the best of my ability.
-If you notice any conflicts in times or dates, please let me know so I can correct them.&lt;/p&gt;
+You will also use this for submitting assignments and all due dates will be visible in your Blackboard calendar.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Getting Help</title>
       <link>https://sta518.github.io/courses/course-policies/getting-help/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       <guid>https://sta518.github.io/courses/course-policies/getting-help/</guid>
       <description>&lt;!-- 
 For connecting to LMS - LATER
@@ -67,8 +65,8 @@ For connecting to LMS - LATER
 --&gt; 
 &lt;p&gt;You can ask questions about anything at any time without judgment.
 I want to help you succeed.&lt;/p&gt;
-&lt;h2 id=&#34;community-discussion&#34;&gt;Community Discussion&lt;/h2&gt;
-&lt;p&gt;All asynchronous course discussions will be through GitHub on the STA 418\518 community repository (link provided on Blackboard).
+&lt;h2 id=&#34;github-community-discussion&#34;&gt;GitHub Community Discussion&lt;/h2&gt;
+&lt;p&gt;All asynchronous course discussions will be through GitHub in the STA 418/518 community repository (link provided on Blackboard).
 This is a &lt;em&gt;private discussion forum&lt;/em&gt; so only individuals in our class can participate in it.
 However, this forum is not a place to discuss personal information such as grades or private concerns - that would be best to email me about.
 I will be available to assist you, but your peers will also be a great resource.
@@ -76,38 +74,38 @@ I encourage you to seek help in ways that are visible to others so that all can 
 &lt;p&gt;One of our first activities will be to create Issues on GitHub to help you become comfortable with this process.&lt;/p&gt;
 &lt;h2 id=&#34;class-sessions&#34;&gt;Class Sessions&lt;/h2&gt;
 &lt;p&gt;You may prefer to get your questions answered live.
-STA 418\518 will meet synchronously in live sessions through Blackboard Collaborate this semester.
+STA 418/518 will meet synchronously in live sessions through Blackboard Collaborate this semester.
 These sessions will be recorded and available to all students in that section afterwards.
 These live sessions are an excellent opportunity to ask questions about course material, assignments, projects, or other course details.&lt;/p&gt;
 &lt;p&gt;Leading up to these sessions, I will solicit additional items beyond what I have planned to cover through the GitHub community repository.
-If you post your items to these GitHub Issues at least two hours prior to the session, I will do my best to plan a brief demonstration, lesson, etc. covering them.
-I may choose to record a brief demonstration for these items.
-These recordings would be made available on Blackboard.&lt;/p&gt;
+If you post your items to these GitHub Issues by noon on the dates of our class sessions, I will do my best to plan a demonstration, lesson, etc. covering them.
+I may choose to record these items instead of covering them during our class session.
+All recordings would be made available on Blackboard.&lt;/p&gt;
 &lt;h3 id=&#34;attendance&#34;&gt;Attendance&lt;/h3&gt;
-&lt;p&gt;Again, each class meeting will be live-streamed so that you can participate remotely.
-It is critical that you actually attend the meetings.
-Note that GVSU has strengthened its &lt;a href=&#34;https://www.gvsu.edu/provost/temporary-academic-policies-winter-2021-semester-only-approved-252.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;attendance policy for Winter 2021&lt;/a&gt; that states that you are expected to be in attendance at synchronous online meetings.&lt;/p&gt;
-&lt;h2 id=&#34;individual-sessions&#34;&gt;Individual Sessions&lt;/h2&gt;
-&lt;p&gt;You are also welcome to meet with me individually (or with team members).
+&lt;p&gt;Again, each class meeting will be live-streamed so that you can participate remotely - there is no in-person component to this course.
+However, it is critical that you actually attend the meetings.
+Note that GVSU has strengthened its &lt;a href=&#34;https://www.gvsu.edu/provost/temporary-academic-policies-winter-2021-semester-only-approved-252.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;attendance policy&lt;/a&gt; that states that you are expected to be in attendance at synchronous online meetings.&lt;/p&gt;
+&lt;h2 id=&#34;additional-sessions&#34;&gt;Additional Sessions&lt;/h2&gt;
+&lt;p&gt;You are also welcome to meet with me individually (or with Team members).
 Individual sessions are an excellent opportunity for you to ask questions about graduate schools, research opportunities, or careers in statistics or data science.
 Additionally, during individual sessions you can ask me about your grades or other personal items.&lt;/p&gt;
 &lt;p&gt;Due to public health concerns, all student meetings this semester will be conducted remotely unless you have a specific need that requires a physical meeting outside of class.
 Email me to let me know that you would like to meet in-person and we will arrange a socially distanced-meeting.&lt;/p&gt;
-&lt;p&gt;I typically check email between 7 am and 6 pm on weekdays and occasionally during the weekend.
+&lt;p&gt;I typically check email between 8 am and 5 pm on weekdays and occasionally during the weekend.
 I do my best to respond promptly to any email, but please do not expect an immediate response.
 I may need up to 6 hours to respond depending on my schedule and the length of my response.&lt;/p&gt;
 &lt;h3 id=&#34;student-drop-in-hours&#34;&gt;Student Drop-In Hours&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Monday, Tuesday, and Thursday, 1:00 – 2:00 pm&lt;/strong&gt; I will be available online for drop-in visitors.
-A Google Meet video conference link will be shared with you on Blackboard where you can access these sessions.
+&lt;p&gt;I will announce times where I will be available online for drop-in visitors.
+A Google Meet video conference link will be shared with you on Blackboard where you can access these drop-in sessions.
 You do not need an appointment to attend.
-If you cannot attend these Student Drop-In Hours, you can contact me by &lt;a href=&#34;mailto:dykesb@gvsu.edu&#34;&gt;email&lt;/a&gt; or by scheduling an appointment in the Google Calendar that is shared with you on Blackboard.&lt;/p&gt;
+If you cannot attend these Student Drop-In Hours, you can contact me by email or by scheduling an appointment in the Appointment Google Calendar link that is shared with you on Blackboard.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Policies</title>
       <link>https://sta518.github.io/courses/course-policies/policies/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       <guid>https://sta518.github.io/courses/course-policies/policies/</guid>
       <description>&lt;h2 id=&#34;academic-integrity&#34;&gt;Academic Integrity&lt;/h2&gt;
 &lt;p&gt;The university’s academic integrity policy is described in the &lt;a href=&#34;https://www.gvsu.edu/policies/policy.htm?policyId=EFAB64E1-C25B-E1A3-CA2B08B0B821C774&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GVSU Student Code, Section 4&lt;/a&gt;.
@@ -115,15 +113,15 @@ Every student has the responsibility of reading and understanding these policies
 &lt;p&gt;There are many times where you can collaborate on tasks throughout this course; however, at times collaboration may not be allowed.
 Collaboration guidelines for each kind of activity you complete in this course follow.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Preparation, Follow-up, and Learning Journals&lt;/em&gt;: You may collaborate with others, but your write-up must be in your own words.
-You may not copy someone’s work or copy the ideas from someone and simply change the wording to submit it as your own.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Preparations and Learning Journals&lt;/em&gt;: You may collaborate with others, but your write-up must be in your own words.
+You may not copy the work or ideas from someone and simply change the wording to submit it as your own.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Learning Target Checks and Projects&lt;/em&gt;: You may not interact with another person or with unauthorized sources.
 Any evidence of using information from another person or source will be investigated as academic dishonesty.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;All suspected instances of academic dishonesty will be thoroughly investigated, and whether a student has committed academic dishonesty is my determination to make based on the evidence.
 If I determine academic dishonesty has been committed, I will file a report with the Dean of Students, and the minimum penalty will be:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Preparation, Follow-up, and Learning Journals&lt;/em&gt;: A grade of “&lt;em&gt;I&lt;/em&gt;” (&lt;font color=&#34;#ed563a&#34;&gt;&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt;&lt;/font&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Preparations and Learning Journals&lt;/em&gt;: A grade of “&lt;em&gt;I&lt;/em&gt;” (&lt;font color=&#34;#ed563a&#34;&gt;&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt;&lt;/font&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Learning Targets Checks&lt;/em&gt;: A grade of “&lt;em&gt;I&lt;/em&gt;” (&lt;font color=&#34;#ed563a&#34;&gt;&lt;i class=&#34;fas fa-times&#34;&gt;&lt;/i&gt;&lt;/font&gt;) and you may be barred from reattempting.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Projects&lt;/em&gt;: A grade of &amp;ldquo;&lt;em&gt;I&lt;/em&gt;&amp;rdquo; and you will not be allowed to revise or resubmit the Project for the rest of the semester.&lt;/li&gt;
 &lt;/ul&gt;
@@ -137,9 +135,9 @@ Get some &lt;a href=&#34;https://sta518.github.io/courses/policies/getting-help/
 &lt;p&gt;Deadlines for course work will be clearly indicated on the Course Calendar.
 If there are apparent conflicts between dates, let me know so I can correct the issue.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Preparation, Follow-up, and Learning Journals&lt;/em&gt;: No extensions on deadlines are available.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Preparations and Learning Journals&lt;/em&gt;: No extensions on deadlines are available.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Learning Target Checks&lt;/em&gt;: Up to two Learning Target Check deadlines may be extended 12 hours if I am contacted in advance.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Projects&lt;/em&gt;: There is only one set deadline for Projects: the last day of classes (11:59 pm EST on Friday, April 23).
+&lt;li&gt;&lt;em&gt;Projects&lt;/em&gt;: There is only one set deadline for Projects - the last day of classes (i.e., Friday, August 6 by 11:59pm).
 Otherwise, you submit your work when you are ready for it to be graded (subject to the two-items-per-week rule).
 No extension for this deadline is available.&lt;/li&gt;
 &lt;/ul&gt;
@@ -154,8 +152,7 @@ If you encounter issues with technology, use one of the following resources:&lt;
 &lt;li&gt;&lt;em&gt;For help with course tools or applications&lt;/em&gt;: Ask a question on the community discussion repository, seek out the help documentation in the tool or application, or do a targeted Google search.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;recordings-of-blackboard-meetings&#34;&gt;Recordings of Blackboard Meetings&lt;/h2&gt;
-&lt;p&gt;Blackboard meetings will be recorded and will be available to students enrolled in this course as a study aid.
-Recordings will be available for viewing during the Remote Instruction Period subject to the following:&lt;/p&gt;
+&lt;p&gt;Recordings of Blackboard class meetings will be available for viewing subject to the following:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Only students enrolled in the [subject class/section] may view the recording.&lt;/li&gt;
 &lt;li&gt;Students may not post or use the recordings in any other setting (e.g., social media) for any purpose.
@@ -194,15 +191,15 @@ If your state issued identification does not match your preferred name, your nam
 &lt;p&gt;When your myName has been received and reviewed, you will receive an email letting you know either that it has been approved or requesting further information. Once approved, allow up to two days for the myName to be updated across the campus system. More information about myName can be found on the &lt;a href=&#34;https://www.gvsu.edu/lgbtrc/preferred-or-use-name-208.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Milton E. Ford LGBT Resource Center’s page&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;covid-19&#34;&gt;COVID-19&lt;/h2&gt;
 &lt;p&gt;As you are well aware, we will be having class this semester while trying to navigate a global pandemic that seems to change every day.
-Although these plans can be scary and demoralizing, I want you to know that GVSU is doing everything in its power to keep people safe from Covid-19.
-I believe that if we observe reasonable precautions like the ones described here, then while the risk of Covid-19 is still present, there is no reason to be afraid.
+Although these plans can be scary and demoralizing, I want you to know that GVSU is doing everything in its power to keep people safe from COVID-19.
+I believe that if we observe reasonable precautions like the ones described here, then while the risk of COVID-19 is still present, there is no reason to be afraid.
 We will still learn and grow intellectually just as in “typical” times if we stay focused and work together.&lt;/p&gt;
-&lt;p&gt;What follow are general guidelines for how we can work productively together during STA 418\518.&lt;/p&gt;
+&lt;p&gt;What follow are general guidelines for how we can work productively together during STA 418/518.&lt;/p&gt;
 &lt;h3 id=&#34;taking-care-of-yourself&#34;&gt;Taking care of yourself&lt;/h3&gt;
 &lt;p&gt;Of the utmost importance is taking care of your own physical and mental health during these difficult times.
 Make sure you are getting sufficient rest, staying connected to friends and family, and giving yourself time and space to do things you enjoy outside of college.
 The Mayo Clinic provides &lt;a href=&#34;https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/self-care-tips-during-the-covid-19-pandemic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;several tips for maintaining good self-care&lt;/a&gt; in our situation.&lt;/p&gt;
-&lt;p&gt;While we will not be coming to campus for STA 418\518, you are still implored to perform a self-evaluation each day and if you feel even the slightest bit of sickness or Covid-19 symptoms, stay home.
+&lt;p&gt;While we will not be coming to campus for STA 418/518, you are still implored to perform a self-evaluation each day and if you feel even the slightest bit of sickness or COVID-19 symptoms, stay home.
 If you have a class that meets on campus, you should be on campus only if you feel completely healthy.&lt;/p&gt;
 &lt;h3 id=&#34;contingency-plans-for-the-semester&#34;&gt;Contingency plans for the semester&lt;/h3&gt;
 &lt;p&gt;We will be “synchronously online” for the semester, but several things could happen that might alter this setup.
@@ -210,9 +207,9 @@ Here are the initial plans for the most likely of those things.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;If the professor is in self-quarantine, but not because of illness&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;For example, if my partner becomes sick or if my daily self-assessment directs me to stay at home.
 In this case, we will continue synchronous online meetings and an asynchronous option might be introduced.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;If the professor has a Covid-19 infection&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If the professor has a COVID-19 infection&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;The entire course will be moved to an asynchronous online format until I am well enough to resume my responsibilities.
-A substitute instructor may be appointed to grade and give feedback on Preparation and Follow-up tasks and all other graded work will be suspended until I am well enough to grade.&lt;/p&gt;
+A substitute instructor may be appointed to grade and give feedback on Preparations and all other graded work will be suspended until I am well enough to grade.&lt;/p&gt;
 &lt;p&gt;In either of these two cases, you can expect a slowdown in the grading process and substantial changes to the course calendar or syllabus.
 Please monitor your course announcements daily to ensure you have correct information.
 Note that these plans may be changed or overridden by university-wide directives as the semester unfolds.
@@ -226,16 +223,10 @@ These changes will be announced in class and online, and if appropriate, student
 &lt;p&gt;Important dates to keep in mind for this semester are available at the Registrar&amp;rsquo;s &lt;a href=&#34;https://www.gvsu.edu/registrar/academiccalendar.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Calendar&lt;/a&gt;.
 I highlight a few here.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Classes Begin:  Tuesday, January 19
-&lt;ul&gt;
-&lt;li&gt;Martin Luther King, Jr. Holiday observed Monday, January 18&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Winter Break:  Wednesday, March 10&lt;/li&gt;
-&lt;li&gt;Winter Break:  Thursday, April 1&lt;/li&gt;
-&lt;li&gt;Drop Deadline (Grade of “W”):  Friday, April 9, 5 p.m.&lt;/li&gt;
-&lt;li&gt;Classes End:  Saturday, April 24&lt;/li&gt;
-&lt;li&gt;Final Examination Week:  Monday, April 26 – Saturday, May 1&lt;/li&gt;
+&lt;li&gt;Classes Begin: Monday, May 10&lt;/li&gt;
+&lt;li&gt;Drop Deadline (Grade of “W”):  Friday, June 25, 5 p.m.&lt;/li&gt;
+&lt;li&gt;Classes End:  Monday, August 9&lt;/li&gt;
+&lt;li&gt;Final Examination Week:  Tuesday, August 10 – Wednesday, August 11&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

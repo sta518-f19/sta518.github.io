@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | STA 418\518</title>
+    <title>Tags | STA 418/518</title>
     <link>https://sta518.github.io/tags/</link>
       <atom:link href="https://sta518.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
