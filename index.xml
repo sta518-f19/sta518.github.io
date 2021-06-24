@@ -369,7 +369,7 @@ For Core and Supplemental Learning Targets, “Competent+” means “either &lt
 &lt;/li&gt;
 &lt;li&gt;Module 11: How do we use functional programming for statistical analyses?
 &lt;ul&gt;
-&lt;li&gt;Topics: linear models; nested data; statistical simulations; resampling methods&lt;/li&gt;
+&lt;li&gt;Topics: linear models; nested data; &lt;del&gt;statistical simulations;&lt;/del&gt; resampling methods&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Module 12: How do we create interactive data products?
