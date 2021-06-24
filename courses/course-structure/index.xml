@@ -31,37 +31,37 @@
 &lt;/li&gt;
 &lt;li&gt;Module 3: What are the foundational building blocks of coding in R?
 &lt;ul&gt;
-&lt;li&gt;Topics: Objects, vectors, functions&lt;/li&gt;
+&lt;li&gt;Topics: Objects; vectors; functions&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Module 4: How do we isolate information from within a dataset?
 &lt;ul&gt;
-&lt;li&gt;Topics: selecting columns, filter rows, pipes, creating variables&lt;/li&gt;
+&lt;li&gt;Topics: selecting columns; filter rows; pipes; creating variables&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Module 5: How do we summarize data and present these summaries in a human-readable format?
 &lt;ul&gt;
-&lt;li&gt;Topics: Summarizing, groups, restructuring&lt;/li&gt;
+&lt;li&gt;Topics: Summarizing; groups; restructuring&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Module 6: How do we efficiently work with special variable types?
+&lt;li&gt;Module 6: How do we combine multiple sources of information?
 &lt;ul&gt;
-&lt;li&gt;Topics: Ordering characters, date-times, parsing strings&lt;/li&gt;
+&lt;li&gt;Topics: Relational data; joins&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Module 7: How do we combine multiple sources of information?
+&lt;li&gt;Module 7: How do we efficiently work with special variable types?
 &lt;ul&gt;
-&lt;li&gt;Topics: Relational data, joins, web scraping&lt;/li&gt;
+&lt;li&gt;Topics: Ordering characters; date-times; parsing strings&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Module 8: Return of the plot&amp;hellip; How can we make our data visualizations really &amp;ldquo;pop&amp;rdquo;?
 &lt;ul&gt;
-&lt;li&gt;Topics: Scales, color pallets, facets, combining graphical objects&lt;/li&gt;
+&lt;li&gt;Topics: Scales; color pallets; facets; combining graphical objects&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Module 9: How do we create our own R functions?
 &lt;ul&gt;
-&lt;li&gt;Topics: Functions for humans; conditional execution; function arguments&lt;/li&gt;
+&lt;li&gt;Topics: Functions for humans; conditional execution; function arguments; web scraping&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Module 10: How do we apply functions to multiple items?
@@ -114,7 +114,7 @@ How you demonstrate proficiency in these Learning Targets is discussed in &lt;a 
 &lt;li&gt;&lt;strong&gt;FFP.1&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can write a function that accomplishes a common analysis task&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;FFP.2&lt;/strong&gt; - &lt;strong&gt;CORE&lt;/strong&gt;: I can use functional programming to apply a function to each element in data source&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;FFP.3&lt;/strong&gt;: I can implement resampling methods to make conclusions about data&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;FFP.4&lt;/strong&gt;: I can use common probability distributions to simulate data and explore statistical ideas&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;strong&gt;FFP.4&lt;/strong&gt;: I can use common probability distributions to simulate data and explore statistical ideas&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;FFP.5&lt;/strong&gt;: I can implement regression and tests of significance to analyze research questions&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;program-documentation-pd-write-clear-efficient-and-well-documented-r-programs&#34;&gt;Program Documentation (PD): Write clear, efficient, and well-documented R programs&lt;/h3&gt;
